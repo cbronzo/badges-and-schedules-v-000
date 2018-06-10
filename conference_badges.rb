@@ -6,5 +6,6 @@ end
 array = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 def batch_badge_creator(array)
+  array.each do |message|
   badge_maker(name)
 end
