@@ -13,10 +13,10 @@ def batch_badge_creator(speakers)
 end
 
 def assign_rooms(speakers)
-  new array = []
+  new_array = []
   counter = 1
   spekers.each do |name|
-    
+    new_array.push 
 end
 
 def printer
