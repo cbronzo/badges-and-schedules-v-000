@@ -16,7 +16,10 @@ def assign_rooms(speakers)
   new_array = []
   counter = 1
   spekers.each do |name|
-    new_array.push 
+    new_array.push ("Hello, #{name}! You'll be assigned to room #{counter}!")
+    counter += 1
+  end
+  new_array
 end
 
 def printer
