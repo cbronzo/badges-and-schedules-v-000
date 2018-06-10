@@ -19,8 +19,5 @@ def assign_rooms(speakers)
     new_array.push ("Hello, #{name}! You'll be assigned to room #{counter}!")
     counter += 1
   end
-  new_array
-end
-
-def printer
+  return new_array
 end
