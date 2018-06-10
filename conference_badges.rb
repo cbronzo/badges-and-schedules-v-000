@@ -6,5 +6,6 @@ end
 array = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 def batch_badge_creator(array)
-   "Hello, my name is #{name}."
+  array.each do |speaker|
+   puts "Hello, my name is #{name}."
 end
