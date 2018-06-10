@@ -14,7 +14,7 @@ end
 
 def assign_rooms(speakers)
   new array = []
-  
+  counter = 1
 end
 
 def printer
