@@ -15,6 +15,7 @@ end
 def assign_rooms(speakers)
   new array = []
   counter = 1
+  spekers.each do ||
 end
 
 def printer
